@@ -25,4 +25,3 @@ export const openWeather = createApi({
 });
 
 export const {useGetWweatherMutation}=openWeather;
-//api.openweathermap.org/data/2.5/weather?q=nairobi,kenya&APPID=4d592d1d68d22de221389ab70280c871
